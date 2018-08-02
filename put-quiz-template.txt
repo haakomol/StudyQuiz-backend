@@ -1,0 +1,26 @@
+{
+  "name": "Testquiz",
+  "description": "Dette er bare en test...",
+  "exercises": [
+    {
+      "question": "spørsmål 1",
+      "correctAnswer": "Riktig",
+      "incorrectAnswers": [
+        "Feil 1",
+        "Feil 2",
+        "Feil 3"
+      ],
+      "explanation": "Forklaring for spørsmål 1"
+    },
+    {
+      "question": "spørsmål 2",
+      "correctAnswer": "Riktig",
+      "incorrectAnswers": [
+        "Feil 1",
+        "Feil 2",
+        "Feil 3"
+      ],
+      "explanation": "Forklaring for spørsmål 2"
+    }
+  ]
+}
